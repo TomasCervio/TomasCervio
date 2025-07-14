@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Tomás
 
-<!--
-**TomasCervio/TomasCervio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Industrial Engineering student with a strong interest in **AI, Finance, Optimization**, and **Process Automation**. Currently wrapping up my thesis while actively building projects that merge the analytical rigor of engineering with the possibilities of modern software.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 What I'm working on
+
+- 🤖 **AI Agents for Document Digitization** – OCR-powered pipelines for electoral data collection using Telegram bots and cloud tools.
+- 📈 **Finance & Data Projects** – Python pipelines for real-time market data analysis, risk scoring, and credit profiling.
+- 🧠 **Learning Pathways** – Exploring Generative AI, CrewAI, AgenticAI, and MCP.
+
+---
+
+## 💡 My interests
+
+- **Optimization & Decision Models** – Applying OR and ML to real-world business problems.
+- **AI for Automation** – Intelligent tools to replace repetitive tasks and improve processes.
+- **Finance & Risk Modeling** – From credit scoring to equity valuation, with a focus on data-driven decisions.
+
+---
+
+## 🧰 Tech stack
+
+- **Languages**: Python, SQL, R
+- **Libraries**: Pandas, Scikit-Learn, Matplotlib, CrewAI, FastMCP
+---
+
+
+
+
